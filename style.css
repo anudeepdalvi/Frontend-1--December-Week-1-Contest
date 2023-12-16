@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  color: #333;
+}
+
+/*=============================================
+=            First Div            =
+=============================================*/
+
+.first-div {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #000;
+}
+
+.heading {
+  font-size: 44px;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.first-para {
+  font-size: 28px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+em {
+  font-weight: 700;
+}
+
+.read-more {
+  color: #333;
+  font-size: 28px;
+}
+
+/*=====  End of First Div  ======*/
+
+/*=============================================
+=            Second Div            =
+=============================================*/
+
+.second-div {
+  margin: 20px;
+  /* padding: 20px; */
+}
+
+.second-div img {
+  padding: 20px 0;
+  width: 60vw;
+}
+
+.more-images {
+  font-size: 28px;
+  color: #333;
+}
+
+/*=====  End of Second Div  ======*/
+
+/*=============================================
+=            Third Div            =
+=============================================*/
+
+.third-div {
+  margin: 20px;
+  padding: 20px 0;
+}
+
+ol {
+  padding: 20px 0;
+}
+
+.ordered-list {
+  font-size: 28px;
+  margin: 20px;
+}
+
+/*=====  End of Third Div  ======*/
